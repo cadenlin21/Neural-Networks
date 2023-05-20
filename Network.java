@@ -7,9 +7,6 @@ import java.io.IOException;
 
 /*
 * Caden Lin 
-* Dr. Nelson 
-* Honors Advanced Topics in Computer Science: Neural Networks 
-* A--B--C--D Network in Java with Backpropagation 
 * April 15 2022
 * 
 * Implementation of a neural network that can be trained and solve problems based on a given truth table. 
